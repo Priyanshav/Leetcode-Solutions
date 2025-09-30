@@ -6,7 +6,7 @@ This repository contains my personal solutions to various coding problems from p
 
 ## Solutions Index 📖
 
-| # | Problem | Solution |
+| S. No. | Problem Name | Solution Folder |
 | :---: | :--- | :---: |
 | 1 | [Two Sum] | [Java](./1.java) |
 | 2 | [Add Two Numbers] | [Java](./2.java) |
