@@ -33,6 +33,7 @@ This repository contains my personal solutions to various coding problems from p
 | 69 | Sqrt(x) | Easy | [69.java](./69.java) |
 | 70 | Climbing Stairs | Easy | [70.java](./70.java) |
 | 88 | Merge Sorted Array | Easy | [88.java](./88.java) |
+| 92 | Reverse Linked List II | Medium | [92.java](./92.java) |
 | 94 | Binary Tree Inorder Traversal | Medium | [94.java](./94.java) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | [108.java](./108.java) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [121.java](./121.java) |
