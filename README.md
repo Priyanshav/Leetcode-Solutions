@@ -36,6 +36,7 @@ This repository contains my personal solutions to various coding problems from p
 | 92 | Reverse Linked List II | Medium | [92.java](./92.java) |
 | 94 | Binary Tree Inorder Traversal | Medium | [94.java](./94.java) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | [108.java](./108.java) |
+| 109 | Convert Sorted List to Binary Search Tree | Medium | [109.java](./109.java) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [121.java](./121.java) |
 | 125 | Valid Palindrome | Easy | [125.java](./125.java) |
 | 136 | Single Number | Easy | [136.java](./136.java) |
