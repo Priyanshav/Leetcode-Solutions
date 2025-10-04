@@ -1,0 +1,9 @@
+I took a new array because it was not feasible to store the elements of the second array in the first one.
+
+I declared the i,j,k pointer very carefully, keeping the sizes of the array in mind.
+
+Median:
+    If the size of new array is odd then the middle element will be the median.
+    If the size of new array is even then median will be the sum of two middle elements divided by 2 (average of middle elements).
+
+The time complexity of this solution is 0(m + n), but it can be improved.

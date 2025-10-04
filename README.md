@@ -10,6 +10,7 @@ This repository contains my personal solutions to various coding problems from p
 | :---: | :--- | :---: | :---: |
 | 1 | Two Sum | Easy | [1.java](./1.java) |
 | 2 | Add Two Numbers | Medium | [2.java](./2.java) |
+| 4 | Median of Two Sorted Arrays | Hard | [4.java](./4.java) |
 | 7 | Reverse Integer | Medium | [7.java](./7.java) |
 | 8 | String to Integer (atoi) | Medium | [8.java](./8.java) |
 | 9 | Palindrome Number | Easy | [9.java](./9.java) |
